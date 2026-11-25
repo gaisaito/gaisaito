@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gai Saito 👋
 
-<!--
-**gaisaito/gaisaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> 以前のアカウント（[@gai-saito](https://github.com/gai-saito)）は、2段階認証の情報をなくしてログインできなくなりました。
+> 2026年11月からは、このアカウント（@gaisaito）を使っています。
+> 前のアカウントのリポジトリやIssueは今後更新されません。ご連絡はこちらにお願いします。
+>
+> My previous account ([@gai-saito](https://github.com/gai-saito)) is no longer accessible due to lost 2FA credentials.
+> This is my new account as of November 2026.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 教育とテクノロジーに関心があります
+- VR/メタバースでのイベントづくりが好きです
+- Claude Codeで開発を勉強中です
